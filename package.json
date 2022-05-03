@@ -1,0 +1,22 @@
+{
+  "name": "personal_website",
+  "version": "1.0.0",
+  "description": "My Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abejburton/personal_website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abejburton/personal_website/issues"
+  },
+  "homepage": "https://github.com/abejburton/personal_website#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
